@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """   ʜᴇʟʟᴏ😊✋,
-🔅 <a href="https://telegra.ph/file/48875dcbe88ba6f61ccd4.jpg">ᴛʜɪs ɪs ᗰ ᴜᴘʟᴏᴀᴅᴇʀ 🤖 </a>
+🔅 <a href="https://telegra.ph/file/daa847cfd63dc896fab6c.jpg">ᴛʜɪs ɪs ʙ ᴜᴘʟᴏᴀᴅᴇʀ 🤖 </a>
 🔅 ʟᴇᴛ's ɢᴇᴛ sᴛᴀʀᴛᴇᴅ..🎚️ ʏᴏᴜ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ғɪʟᴇs..📁 ᴘʀᴏᴍᴘᴛʟʏ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴛʜʀᴏᴜɢʜ ᴍᴇ..😊
 
 <b>ᴘʟᴇᴀsᴇ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ..🔗,
@@ -8,9 +8,9 @@ class Translation(object):
 
 /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs..
 
-🔅 sᴜᴘᴘᴏʀᴛ: <a href="https://t.me/m_ortom">ᗰᴏʀτᴏᴍ</a>
+🔅 sᴜᴘᴘᴏʀᴛ: <a href="https://t.me/Ban_Ange">BanAngE</a>
 
-🔅 ғᴏʟʟᴏᴡ ᴀɴᴅ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢʀᴏᴜᴘs.  \n<a href="https://t.me/twentyadvance20">    𝗚𝗔𝗠𝗘 𝗛𝗨𝗕™〽️</a> """
+🔅 ғᴏʟʟᴏᴡ ᴀɴᴅ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢʀᴏᴜᴘs.  \n<a href="https://t.me/twentyadvance20">    ɢᴀᴍᴇʜᴜʙ</a> | <a href="https://t.me/un_coder">ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴏᴜɴᴛs</a> """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
@@ -49,7 +49,7 @@ Expires on: 31/12/2020"""
    Video  - Give File as video without Screenshots
    File  - Give File without Screenshots
    
-If you experiencing bugs or issues please contact my <a href="https://t.me/m_ortom">ᗰᴏʀτᴏᴍ</a>
+If you experiencing bugs or issues please contact <a href="https://t.me/Ban_Ange>BanAngE</a>
 
 --------
 Send /me to know current plan details"""
