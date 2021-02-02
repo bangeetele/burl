@@ -49,7 +49,7 @@ Expires on: 31/12/2020"""
    Video  - Give File as video without Screenshots
    File  - Give File without Screenshots
    
-If you experiencing bugs or issues please contact <a href="https://t.me/Ban_Ange>BanAngE</a>
+If you experiencing bugs or issues please contact <a href="https://t.me/Ban_Ange">BanAngE</a>
 
 --------
 Send /me to know current plan details"""
