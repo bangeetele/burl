@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """   ʜᴇʟʟᴏ😊✋,
-🔅 <a href="https://telegra.ph/file/5370ae962a61be56fdacf.jpg">ᴛʜɪs ɪs ʙ ᴜᴘʟᴏᴀᴅᴇʀ 🤖 </a>
+🔅 <a href="https://telegra.ph/file/c4aa538da665326a28d3e.jpg">ᴛʜɪs ɪs ʙ ᴜᴘʟᴏᴀᴅᴇʀ 🤖 </a>
 🔅 ʟᴇᴛ's ɢᴇᴛ sᴛᴀʀᴛᴇᴅ..🎚️ ʏᴏᴜ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ғɪʟᴇs..📁 ᴘʀᴏᴍᴘᴛʟʏ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴛʜʀᴏᴜɢʜ ᴍᴇ..😊
 
 <b>ᴘʟᴇᴀsᴇ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ..🔗,
@@ -8,9 +8,7 @@ class Translation(object):
 
 /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs..
 
-🔅 sᴜᴘᴘᴏʀᴛ: <a href="https://t.me/Ban_Ange">BanAngE</a>
-
-🔅 ғᴏʟʟᴏᴡ ᴀɴᴅ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢʀᴏᴜᴘs.  \n<a href="https://t.me/twentyadvance20">     ɢᴀᴍᴇʜᴜʙ</a> | <a href="https://t.me/un_coder">ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴏᴜɴᴛs</a> """
+🔅 sᴜᴘᴘᴏʀᴛ: <a href="https://t.me/Ban_Ange">BanAngE</a> """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
